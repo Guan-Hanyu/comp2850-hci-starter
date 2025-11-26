@@ -8,7 +8,7 @@
 
 ---
 
-## Quick Start
+## Quick Start 
 
 ### Local with IDE of Your Choice (Recommended)
 **IntelliJ IDEA, VSCode, Eclipse, or any Kotlin-compatible IDE**
